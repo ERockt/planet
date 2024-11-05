@@ -1,3 +1,4 @@
 Jupiter is another planet.
-Has rings.
+Has rings of dust.
+
 
